@@ -1,0 +1,14 @@
+{
+  "name": "grunt-cli",
+  "homepage": "https://github.com/gruntjs/grunt-cli",
+  "version": "1.2.0",
+  "_release": "1.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.2.0",
+    "commit": "51b8167240b7619e5ca6e1e2513a080eeb750321"
+  },
+  "_source": "https://github.com/gruntjs/grunt-cli.git",
+  "_target": "^1.2.0",
+  "_originalSource": "grunt-cli"
+}

@@ -1,0 +1,1 @@
+function longFunctionC(argumentC,a){return 3+argumentC+a}var longNameA=1,longNameB=2,result=longFunctionC(3,4);

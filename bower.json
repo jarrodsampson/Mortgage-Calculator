@@ -1,0 +1,23 @@
+{
+  "name": "mortgage-calc",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jarrod Sampson <jarrod@gunghoonline.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "grunt-cli": "^1.2.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.2.0",
+    "foundation": "^5.5.3"
+  }
+}

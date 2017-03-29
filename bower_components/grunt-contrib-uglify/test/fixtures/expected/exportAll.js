@@ -1,0 +1,1 @@
+!function(exports,global){function longFunctionC(argumentC,argumentD){return 3+argumentC+argumentD}var result=longFunctionC(3,4);exports.longNameA=1,exports.longNameB=2,exports.longFunctionC=longFunctionC,exports.result=result,global.testExport=exports}({},function(){return this}());
