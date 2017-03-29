@@ -13,8 +13,12 @@ Mortgage Calculator app built with Angular, managed with Bower and Grunt, styled
 
 ## Features
 
-- Responsive and mobile-friendly
-- Calculates the estimated interest that would be payed.
+- Shows estimated loan payoff year.
+- Calculates total term payments for loan.
+- Get your estimated monthly mortgage rate.
+- Find out the total cost of the home.
+- Responsive and mobile-friendly.
+- Calculates the interest total and monthly amounts.
 
 ## License
 
